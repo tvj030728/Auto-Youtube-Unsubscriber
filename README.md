@@ -1,4 +1,4 @@
-#Auto Youtube Unsubscriber#
+# Auto Youtube Unsubscriber
 
 1. Go to [YoutubeSubscribePage](https://www.youtube.com/feed/channels)
 2. Press F12 to open developer popup.
@@ -6,7 +6,7 @@
 4. Copy [Code](https://github.com/tvj030728/Auto-Youtube-Unsubscriber/blob/main/code.js).
 5. Paste it. Done.
 
-#유튜브 자동 구독 취소#
+# 유튜브 자동 구독 취소
 
 1. [YoutubeSubscribePage](https://www.youtube.com/feed/channels)로 이동합니다.
 2. F12를 눌러 개발자 팝업을 엽니다.
