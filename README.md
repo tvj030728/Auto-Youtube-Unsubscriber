@@ -12,4 +12,4 @@
 2. F12를 눌러 개발자 팝업을 엽니다.
 3. '콘솔'을 누릅니다.
 4. [코드](https://github.com/tvj030728/Auto-Youtube-Unsubscriber/blob/main/code.js)를 복사합니다.
-5. 붙여넣기합니다. 완료됩니다.```
+5. 붙여넣기합니다. 완료됩니다.
